@@ -70,7 +70,7 @@ a = "AAA DD DD AA FF GG HH JJ"
 b = a.count("A") # count the element no of times occured in the string
 print(b)"""
 
-# in and not in
+"""# in and not in
 a = "AAA DD DD AA FF GG HH JJ"
 b = "A" in a
 c = "A" not in a
@@ -80,6 +80,10 @@ print(b)
 print(c)
 print(d)
 print(e)
+"""
+a = "ab"
+
+print(a.upper())
 
 
 
