@@ -21,3 +21,4 @@ c = 0
 while c < b :
     b = b-1
     print(a[b])
+#

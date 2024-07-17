@@ -1,4 +1,5 @@
-"""# by using replace
+"""
+## by using replace
 a = "How Are You Adarsh Are You Ok ?"
 b = a.replace(" ",'')
 
