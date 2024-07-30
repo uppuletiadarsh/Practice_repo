@@ -1,4 +1,4 @@
-# find() 
+"""# find() 
 sentence = 'Python is Difficult To Learn And Difficult To Code'
 res = sentence.find("p") # if substring not in mainstring it will give -1 instead of error
 res1= sentence.find("P")
@@ -162,3 +162,15 @@ else:
 
 
 
+"""
+#53
+a = 'abababcacadcadef'
+b =''
+for i in a :
+    if i not in b:
+        b=b+i
+print(b)      
+
+
+
+    
